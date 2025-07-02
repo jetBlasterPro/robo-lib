@@ -15,7 +15,7 @@ void setup() {
   Serial.println("Please Scan your RFID Card");
   lcd.begin(20, 4);
   lcd.setCursor(0, 0);
-  lcd.print(" THE PRATHAM SOLUT");
+  lcd.print(" THE SOLUTIONS ");
   lcd.setCursor(0, 1);
   lcd.print(" RFID BASED LOCK SYSTEM");
   lcd.setCursor(0, 2);
